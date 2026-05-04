@@ -24,19 +24,3 @@ wheels/
 # Virtual Environment
 venv/
 ENV/
-
-# Data and Models
-dataset/
-
-# Reports and Output
-*.docx
-report_assets/
-images/
-kaggle/
-files/
-MASK.JPG
-out.docx
-final_cleaned.docx
-Face_Mask_Detection_Report.docx
-Face_Mask_Report_Final.docx
-Face_Mask_Report_WithImages.docx
